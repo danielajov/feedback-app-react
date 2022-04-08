@@ -1,4 +1,3 @@
-https://danielajov.github.io/feedback-app-react/
 
 # Getting Started with Create React App
 
