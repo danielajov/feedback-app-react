@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/danielajov/feedback-app-react/static/css/main.fa72ae7b.css",
-    "main.js": "/danielajov/feedback-app-react/static/js/main.3676ee2e.js",
-    "static/media/spinner.gif": "/danielajov/feedback-app-react/static/media/spinner.a1a996746e5e48352c81.gif",
-    "index.html": "/danielajov/feedback-app-react/index.html",
-    "main.fa72ae7b.css.map": "/danielajov/feedback-app-react/static/css/main.fa72ae7b.css.map",
-    "main.3676ee2e.js.map": "/danielajov/feedback-app-react/static/js/main.3676ee2e.js.map"
+    "main.css": "/feedback-app-react/static/css/main.fa72ae7b.css",
+    "main.js": "/feedback-app-react/static/js/main.780a37bf.js",
+    "static/media/spinner.gif": "/feedback-app-react/static/media/spinner.a1a996746e5e48352c81.gif",
+    "index.html": "/feedback-app-react/index.html",
+    "main.fa72ae7b.css.map": "/feedback-app-react/static/css/main.fa72ae7b.css.map",
+    "main.780a37bf.js.map": "/feedback-app-react/static/js/main.780a37bf.js.map"
   },
   "entrypoints": [
     "static/css/main.fa72ae7b.css",
-    "static/js/main.3676ee2e.js"
+    "static/js/main.780a37bf.js"
   ]
 }
